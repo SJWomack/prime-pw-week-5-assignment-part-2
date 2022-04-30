@@ -21,4 +21,5 @@ body {
 }
 .ourStore{
     display: flex;
+    margin: 1em;
 }

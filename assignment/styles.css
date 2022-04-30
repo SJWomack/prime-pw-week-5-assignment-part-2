@@ -10,14 +10,15 @@ body {
     text-align: center;
 }
 
-main {
+.intro {
     background-color: lightgray;
     padding: 1em;
 }
 
-.intro {
+#console {
+    text-align: center;
     color: blueviolet;
 }
-#console{
-    text-align: center;
+.ourStore{
+    display: flex;
 }

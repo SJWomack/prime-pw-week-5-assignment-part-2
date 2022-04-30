@@ -1,0 +1,23 @@
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
+
+.banner {
+    background-color: darkgreen;
+    color: aqua;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.intro {
+    color: blueviolet;
+}
+#console{
+    text-align: center;
+}

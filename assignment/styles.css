@@ -21,5 +21,33 @@ body {
 }
 .ourStore{
     display: flex;
+    flex-direction: row;
+    background-color: darkgreen;
     margin: 1em;
+    border: 15px;
+    border-radius: 0.25rem;
+    border-color: black;
+    border-style: ridge;
+}
+#welcomein{
+    padding: 2em;
+    order: 2;
+    flex-grow: 1;
+    border: 0;
+}
+.whatWeDo{
+    padding: 2em;
+    color: bisque;
+    flex-grow: 1;
+    order: 4;
+}
+#services{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: bisque;
+    text-decoration-thickness: 5px;
+}
+li{
+    padding: 1em;
+    font-weight: bolder;
 }
